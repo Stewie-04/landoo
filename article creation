@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importance of Semantic</title>
+</head>
+<body>
+    <h1>Importance of Semantic HTML for SEO and accesibility</h1>
+    
+    <article>
+        <h2>Importance of Semantic HTML</h2>
+        <p>
+            There is a considerable amount of users that depend on a screen reader software to navigate the internet and only surf the internet through the use of the keyboard.<br>
+        So making sure that screen readers can read each element, and that each of them can be accessed through the keyboard is ESSENTIAL, we have to code for all users.<br>
+        Semantic HTML is not only about using the new semantic tags, but about using the correct tags for each element, so that it is easy to navigate for all users.
+        </p>
+    </article>
+
+    <article>
+        <h3>Importance of semantic HTML for seo</h3>
+        <p>
+            Search engines rely on the structure and semantics of HTML to understand the content of a webpage.<br> Semantic HTML helps search engines accurately interpret the hierarchy and relationships between different parts of your content, leading to better indexing.
+        </p>
+    </article>
+
+    <article>
+        <h4>Importance of semantic HTML for accessibilty</h4>
+        <p>
+            Using semantic HTML improves accessibility in two ways. The first is that it’s better for mobile applications, because it requires less memory than non-semantic HTML. <br> The difference is not that significant for smaller apps, but certainly can play a role for larger websites. <br> Semantic HTML improves responsiveness because the browser can interpret the code better. Another reason why semantic HTML is so important for accessibility is because it greatly benefits screen reader users. <br> To ensure a smooth and seamless experience for everyone, including those with physical and cognitive disabilities. Semantic HTML helps achieve this by clearly defining different sections of a web page and maintaining consistency throughout the web.
+        </p>
+    </article>
+</body>
+</html>
